@@ -1,5 +1,11 @@
 # gjs test examples
 
+## wip has moved
+
+Future work on this repository has moved to the monorepo [valera-rozuvan/experiments](https://github.com/valera-rozuvan/experiments). This repo is archived for historic purposes (to preserve commit history). Navigate over to [experiments/gjs-test-examples](https://github.com/valera-rozuvan/experiments/tree/main/gjs-test-examples) to see updates (if any).
+
+## introduction
+
 Playing around with gjs - GNOME JavaScript/Spidermonkey bindings
 
 The initial inspiration and source for this repository comes from the **Tutorials** section in the [Tutorial for beginners and code samples](https://developer.gnome.org/gnome-devel-demos/stable/beginner.js.html.en) GNOME dev center section.
